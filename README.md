@@ -11,3 +11,5 @@ This repository tracks my upstream contributions to Kubernetes, ToolHive, and ot
 - Enforced lowercase-only group names → [PR #1699](https://github.com/toolhive/toolhive/pull/1699)
 - Added validation tests to improve reliability
 
+
+➡️ View my active project board: [Contribution Dashboard](https://github.com/users/rbiamru/projects/4)
